@@ -12,7 +12,7 @@
 - [Recommendations](#Recommendations)
 
 ## Project Overview
-This is an analysis of the sales of adidas across a variety of areas in the United States, sales methods, retailers and products. The product aims to gain actionable insights into the sales of adidas and enable informed decision making
+This is an analysis of the sales of adidas across a variety of areas in the United States, sales methods, retailers and products. The project aims to gain actionable insights into the sales of adidas and enable informed decision making
 
 ## Data Sources
 Adidas Sales Data: The primary dataset for this analysis is the "adidas_sales.xlsx" file containing detailed information about the sales of adidas. It contains details about adidas products, prices, retailers, sales methods, invoice years, regions, states etc. 
